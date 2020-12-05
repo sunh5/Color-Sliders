@@ -10,12 +10,9 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var redValueLabel: UILabel!
-    
     @IBOutlet weak var greenValueLabel: UILabel!
-    
     @IBOutlet weak var blueValueLabel: UILabel!
     @IBOutlet weak var alphaValueLabel: UILabel!
-    
     @IBOutlet weak var redSlider: UISlider!
     @IBOutlet weak var greenSlider: UISlider!
     @IBOutlet weak var blueSlider: UISlider!
